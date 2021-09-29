@@ -1,4 +1,4 @@
-![](https://help.github.com/Hải HD.jpg)
+![](https://github.com/hainguyen0220/NguyenLongHai/blob/main/H%E1%BA%A3i%20HD.jpg)
 # CV Nguyễn Long Hải
 *Ngày sinh* : 04/10/20
 
