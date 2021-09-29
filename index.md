@@ -1,11 +1,12 @@
 ![](https://github.com/hainguyen0220/NguyenLongHai/blob/main/H%E1%BA%A3i%20HD.jpg)
+***
 # CV Nguyễn Long Hải
 *Ngày sinh* : 04/10/20
 
 *Giới tính* : Nam
 
 *Quê quán* : Yên Bái
-
+***
 ## Thông Tin liên lạc
 
 *Số điện thoại* : 0376649962
