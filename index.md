@@ -1,3 +1,6 @@
+
+![GitHub Logo](Hải HD.jpg)
+Format: ![Alt Text](url)
 # CV Nguyễn Long Hải
 *Ngày sinh* : 04/10/20
 
